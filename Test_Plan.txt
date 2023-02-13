@@ -1,0 +1,96 @@
+
+
+TEST PLAN FOR E-COMMERCE PROJECT
+
+AUTHOR:
+VERSION:
+DATE:
+
+1 - INTRODUCTION
+
+This document describes the procedures and methods that can be used in 
+e-commerce manual testing process.
+The objective of the testing activities is to check functions and features of a e-commerce
+ developed for web browsers (Chrome, Firefox, Edge, Safari) and modern
+Android and iOS devices.
+
+This Test Plan document supports the following 
+objectives:
+ - Identify existing project information and software componentes to be
+ tested;
+ - Recommendation and description of the testing strategies to be employed;
+ - Identify required resources and provide a test effort estimate;
+ - List the test project deliverable elements.
+
+2 -SCOPE OF PROJECT
+
+The following components and functions would be tested:
+ 1. Home Page
+ 2. Product List Page
+ 3. Product Page
+ 4. Chart
+ 5. Login and password recovery
+ 6. Checkout
+ 7. Payment
+ 8. Search
+ 9. User Page
+
+3 - WORK PLAN
+
+According to project requirements, define test coverage and
+types of tests to be done, writing test scenarios and
+user cases, define the priority of possible errors and the
+bug report template.
+
+
+4 - TEST PLAN AND STRATEGY
+
+With the test requirements and test coverage defined, 
+perform the appropriate tests, as described below:
+ - Functional: Components and functionalities that do not work 
+ as expected, not found pages, conflicting product 
+ information in PLP and PDP.
+ - Content: Empty pages, misspellings, pages with demo text,
+ unclickable links.
+ - Visual: missing design elements, visual inconsistencies,
+ margin, fonts, colors and pading different from the design 
+ guide.
+ - Performance: page load time, time to perform actions 
+ e.g. completing an order, registering, searching.
+ - Browser: errors that only happen in some browsers.
+ - Device: errors that only happen in some specific device.
+
+The bug reporting process must happen objectively with efficient communication 
+between the teams of testers and developers, and must define the priority 
+order of errors based on their criticality. 
+IN E-COMMERCES THERE MUST NOT BE BUGS THAT DISRUPTION THE CONVERSION (PURCHASE).
+Bug reporting include a objective title, the steps to 
+reproduce the error, a error visual evidence, the expected result 
+and the real result.
+ Browser bugs report should include which browsers are not OK (name + version). 
+ Device bugs report should include which devices are not OK (name + version). 
+ Perfomance bugs report should include a video records reproducing the error.
+
+
+In addition to the mentioned tests, regression tests and retests 
+must be performed during the project.
+ 
+5 - RESOURCES
+- Tools: Which tools will be used for the project, e.g. Jira for
+defect tracking, Excel for test cases definition and bugs report.
+- Browsers: On which browsers the e-commerce will be tested, e.g. latest
+Chrome version, latest Edge version and latest Safari version.
+- Devices:  on which devices the product will be tested, e.g. Desktop,
+iPhone X, Android devices.
+
+6 - CRITERIA OF QUALITY 
+The product should operate in accordance with the requirements and the functional
+specification.
+
+
+7 - DELIVERABLES
+- Test Plan.
+- Bug reports and reports regarding the testing progress.
+
+
+
