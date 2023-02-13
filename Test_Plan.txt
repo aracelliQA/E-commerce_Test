@@ -9,7 +9,7 @@ DATE:
 This document describes the procedures and methods that can be used in 
 e-commerce manual testing process.
 The objective of the testing activities is to check functions and features of a e-commerce
- developed for web browsers (Chrome, Firefox, Edge, Safari) and modern
+developed for web browsers (Chrome, Firefox, Edge, Safari) and modern
 Android and iOS devices.
 
 This Test Plan document supports the following 
